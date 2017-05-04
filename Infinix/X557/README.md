@@ -1,0 +1,1 @@
+# android_device_tecno_TECNO_W4
