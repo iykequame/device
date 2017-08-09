@@ -18,7 +18,7 @@
 LOCAL_PATH := device/tecno/Camon_C9
 
 # Device vendor board
--include vendor/tecno/Camon_C9/BoardConfigVendor.mk
+#-include vendor/tecno/Camon_C9/BoardConfigVendor.mk
 
 #USE_CAMERA_STUB := true
 #TARGET_PROVIDES_INIT_RC := true
