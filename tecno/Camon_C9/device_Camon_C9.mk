@@ -31,7 +31,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 # Vendor product configurations
-$(call inherit-product-if-exists, vendor/tecno/Camon_C9/Camon_C9-vendor.mk)
+#$(call inherit-product-if-exists, vendor/tecno/Camon_C9/Camon_C9-vendor.mk)
 
 ADDITIONAL_DEFAULT_PROPERTIES += \
 	ro.secure=0 \
